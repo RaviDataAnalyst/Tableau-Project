@@ -1,2 +1,2 @@
 # Tableau-Project
-Designed Tableau dashboards to understand Acme telco employee trands
+Designed Tableau dashboards to track employees data for HR team , including Groups size and demographics,Salary structure,Performance results,Satisfaction scores and Attrition
