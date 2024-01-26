@@ -1,0 +1,1 @@
+1. Conducted in-depth analysis and processing of London bike rides data from a JSON file using Python. Transformed the data into a CSV file for further analysis and visualization, culminating in an interactive dashboard using Tableau.
